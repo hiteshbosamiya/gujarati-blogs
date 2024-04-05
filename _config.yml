@@ -1,0 +1,12 @@
+title: Gujarati Blogs
+author:
+  name: Hitesh A. Bosamiya
+  email: hiteshb@aol.com
+description: "Copyright 2023-2024 Hitesh A. Bosamiya. All Rights Reserved"
+
+remote_theme: jekyll/minima
+minima:
+  skin: auto
+
+plugins:
+  - jekyll-feed
